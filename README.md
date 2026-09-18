@@ -38,6 +38,8 @@ Specifying the context and requirements of a system
 
 
 CLASS DIAGRAM
+
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -53,6 +55,8 @@ Create detailed charts that…
 <img width="615" height="451" alt="image" src="https://github.com/user-attachments/assets/4d1db1ce-3481-48ee-997c-60ff477e5830" />
 
 COMMUNICTION DIAGRAM:
+
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to
@@ -60,6 +64,8 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 <img width="682" height="501" alt="image" src="https://github.com/user-attachments/assets/4c5a11af-4cbe-4ee8-864a-b4acd14f7f14" />
 
 PACKAGE DIAGRAM:
+
+
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
 organization of the layered architecture within any UML classifier, such as a software system.
@@ -69,6 +75,8 @@ A well-designed package diagram provides numerous benefits to those looking to c
 <img width="685" height="500" alt="image" src="https://github.com/user-attachments/assets/a7a185ce-aa84-4d26-bc6f-4b2d3abc6386" />
 
 ACTIVITY DIAGRAM:
+
+
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -81,7 +89,9 @@ Describe the steps performed in a UML use case.
 
 <img width="685" height="500" alt="image" src="https://github.com/user-attachments/assets/519db366-f042-4bf7-a529-0618c926afdf" />
 
-SEQUENCE DIAGRAM
+SEQUENCE DIAGRAM:
+
+
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
@@ -89,6 +99,8 @@ a new system or to document an existing process. Sequence diagrams are sometimes
 <img width="685" height="497" alt="image" src="https://github.com/user-attachments/assets/cd9b5eb0-d0b9-492e-8b39-6acdc1120138" />
 
 BENEFITS OF SEQUENCE DIAGRAM
+
+
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
 Represent the details of UML use cases.
